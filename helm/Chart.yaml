@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-advertising
+description: "BIAN Service Domain: Advertising (Operate pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Marketing"
+  bian/asset-type: "Advertising Campaign"
+  bian/control-record: "Advertising Campaign Operating Session"
